@@ -1,0 +1,20 @@
+{
+  "models": [
+    ["Zb26"],
+    ["Pio/default", "Pio/animal-01", "Pio/animal-02", "Pio/bunny-girl-01"],
+    ["Bilibili/22"],
+    ["Bilibili/33"],
+    ["Hijiki"],
+    ["Blanc/blanc_normal", "Blanc/blanc_classic", "Blanc/blanc_swimwear"],
+    ["Vert/vert_normal", "Vert/vert_classic", "Vert/vert_swimwear"]
+  ],
+  "messages": [
+    "来自 少女前线 的 zb26~",
+    "来自 Potion Maker 的 Pio 酱 ~",
+    "来自 Bilibili Live 的 22娘 ~",
+    "来自 Bilibili Live 的 33娘 ~",
+    "咦？不知道从哪混进来一只猫...",
+    "来自 Nep! Nep! 超次元游戏：海王星 系列的 blanc!",
+    "来自 Nep! Nep! 超次元游戏：海王星 系列的 vert 酱 ~"
+  ]
+}
