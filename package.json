@@ -5,7 +5,12 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon ./src/main.js"
+    "dev": "nodemon ./src/main.js",
+    "start": "pm2 start ./ecosystem.config.js  --env production --watch",
+    "log": "pm2 log spry-live2d-api",
+    "status": "pm2 status",
+    "stop": "pm2 stop spry-live2d-api",
+    "restart": "pm2 delete spry-live2d-api && npm run start"
   },
   "keywords": [],
   "author": "",
